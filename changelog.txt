@@ -1,0 +1,20 @@
+Version 1.0.3
+------------------------------------------------------------
+FIX - Fixed conflict with the Ratings Form plugin.
+FIX - Plugin textdomain is incorrect.
+NEW - Added Swedish translation.
+
+
+Version 1.0.2
+------------------------------------------------------------
+FIX - Updated plugin to support version TotalPoll 3.0 or higher.
+
+
+Version 1.0.1
+------------------------------------------------------------
+NEW - Added badges support.
+
+
+Version 1.0
+------------------------------------------------------------
+Initial release

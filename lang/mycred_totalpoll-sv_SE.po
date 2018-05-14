@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED for TotalPoll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 16:03+0000\n"
+"PO-Revision-Date: 2017-10-05 16:04+0000\n"
+"Last-Translator: Gabriel <gabriel.s@merovingi.com>\n"
+"Language-Team: Swedish\n"
+"Language: sv-SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mycred-totalpoll.php:168
+msgid "TotalPoll"
+msgstr "TotalPoll"
+
+#: mycred-totalpoll.php:169
+msgid "Awards %_plural% for voting in polls."
+msgstr "Tilldela %_plural% för röstning."
+
+#: mycred-totalpoll.php:184
+msgid "Voting in Polls (TotalPoll)"
+msgstr "Röstning (TotalPoll)"
+
+#. Description of the plugin
+msgid "Allows you to reward users points for participating in polls."
+msgstr "Låter dig tilldela poäng för röstning genom TotalPoll."
+
+#: mycred-totalpoll.php:244
+msgid "More information about this plugin"
+msgstr "Mer information om denna plugin"
+
+#: mycred-totalpoll.php:246
+msgid "View details"
+msgstr "Visa detaljer"
+
+#: mycred-totalpoll.php:376
+msgid "New Vote"
+msgstr "Ny Röst"
+
+#: mycred-totalpoll.php:386
+msgid "Log Template"
+msgstr "Log Mall"
+
+#. Name of the plugin
+msgid "myCRED for TotalPoll"
+msgstr "myCRED för TotalPoll"
